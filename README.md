@@ -12,11 +12,11 @@ Several of these applications are coupled with python scripts which do some anal
 
 ### Applications
 
-The [apps](https://github.com/ml4a/ml4a-ofx/tree/master/apps) folder contains all of the individual openFrameworks apps, and their descriptions and usage instructions.
+The [apps](https://github.com/InnovativeDigitalSolution/ML4a-ofx/tree/master/apps) folder contains all of the individual openFrameworks apps, and their descriptions and usage instructions.
 
 ### Osc Modules
 
-The [osc-modules](https://github.com/ml4a/ml4a-ofx/tree/master/osc-modules) folder contains a set of applications which send or receive OSC in order to facilitate communication with other applications, and are very easily used alongside [Wekinator](http://www.wekinator.org). 
+The [osc-modules](https://github.com/InnovativeDigitalSolution/ML4a-ofx/tree/master/osc-modules) folder contains a set of applications which send or receive OSC in order to facilitate communication with other applications, and are very easily used alongside [Wekinator](http://www.wekinator.org). 
 
 ### Datasets
 
